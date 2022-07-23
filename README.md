@@ -20,4 +20,7 @@ I made this cuz I'm bored, so better check it out and then [uninstall](https://g
 ## Uninstall
 just delete (recommended)
 
+# Copyright
 anyways Twitter is owned by Twitter Inc. so I dont own twitter ok, I'm not Elon.
+
+and Python is owned by uhhhh.... Python Software Foundation
