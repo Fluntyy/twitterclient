@@ -1,7 +1,7 @@
 # Flunty's Twitter Client
 Twitter client that can only tweet
 
-I made this cuz I'm bored, so better check it out and then [uninstall](https://github.com/Fluntyy/twitterclient#uninstall)
+I made this cuz I'm bored, so better check it out and then [uninstall](https://github.com/Fluntyy/twitterclient/blob/main/README.md#uninstall)
 
 ![Screenshot of Flunty's Twitter Client](https://user-images.githubusercontent.com/106996695/180609097-cf06f9e1-f73e-46e2-86b3-149964c3f970.png)
 
